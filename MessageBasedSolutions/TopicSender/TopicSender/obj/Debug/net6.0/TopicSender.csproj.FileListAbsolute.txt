@@ -1,0 +1,44 @@
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.exe
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.deps.json
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.runtimeconfig.json
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.dll
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.pdb
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\Azure.Core.dll
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\Azure.Core.Amqp.dll
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\az-204\TopicSender\TopicSender\bin\Debug\net6.0\System.Memory.Data.dll
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.csproj.AssemblyReference.cache
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.GeneratedMSBuildEditorConfig.editorconfig
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfoInputs.cache
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfo.cs
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CoreCompileInputs.cache
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CopyComplete
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.dll
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\refint\TopicSender.dll
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.pdb
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.genruntimeconfig.cache
+H:\az-204\TopicSender\TopicSender\obj\Debug\net6.0\ref\TopicSender.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.exe
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.deps.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.runtimeconfig.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\TopicSender.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\Azure.Core.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\Azure.Core.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.csproj.AssemblyReference.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.GeneratedMSBuildEditorConfig.editorconfig
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfoInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfo.cs
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CoreCompileInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CopyComplete
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\refint\TopicSender.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\TopicSender.genruntimeconfig.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicSender\obj\Debug\net6.0\ref\TopicSender.dll

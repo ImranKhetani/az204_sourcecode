@@ -1,0 +1,44 @@
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.exe
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.deps.json
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.runtimeconfig.json
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.pdb
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Azure.Core.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Azure.Core.Amqp.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\System.Memory.Data.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.csproj.AssemblyReference.cache
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.GeneratedMSBuildEditorConfig.editorconfig
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.AssemblyInfoInputs.cache
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.AssemblyInfo.cs
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.csproj.CoreCompileInputs.cache
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.csproj.CopyComplete
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\refint\ServiceBusDemo.dll
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.pdb
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.genruntimeconfig.cache
+H:\az-204\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ref\ServiceBusDemo.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.exe
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.deps.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.runtimeconfig.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\ServiceBusDemo.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Azure.Core.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Azure.Core.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.csproj.AssemblyReference.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.AssemblyInfoInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.AssemblyInfo.cs
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.csproj.CoreCompileInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.csproj.CopyComplete
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\refint\ServiceBusDemo.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ServiceBusDemo.genruntimeconfig.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\ServiceBusDemo\obj\Debug\net6.0\ref\ServiceBusDemo.dll

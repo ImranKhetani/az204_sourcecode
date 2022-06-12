@@ -1,0 +1,6 @@
+C:\Users\Imran\Downloads\KeyVault\5. AccessBlob\AccessBlob\bin\Release\net6.0\publish\AccessBlob.exe
+C:\Users\Imran\Downloads\KeyVault\5. AccessBlob\AccessBlob\bin\Release\net6.0\publish\AccessBlob.dll
+C:\Users\Imran\Downloads\KeyVault\5. AccessBlob\AccessBlob\bin\Release\net6.0\publish\AccessBlob.deps.json
+C:\Users\Imran\Downloads\KeyVault\5. AccessBlob\AccessBlob\bin\Release\net6.0\publish\AccessBlob.runtimeconfig.json
+C:\Users\Imran\Downloads\KeyVault\5. AccessBlob\AccessBlob\bin\Release\net6.0\publish\AccessBlob.pdb
+C:\Users\Imran\Downloads\KeyVault\5. AccessBlob\AccessBlob\bin\Release\net6.0\publish\Newtonsoft.Json.dll

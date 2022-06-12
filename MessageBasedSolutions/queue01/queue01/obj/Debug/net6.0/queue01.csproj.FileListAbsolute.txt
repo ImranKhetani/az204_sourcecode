@@ -1,0 +1,44 @@
+H:\az-204\queue01\queue01\bin\Debug\net6.0\queue01.exe
+H:\az-204\queue01\queue01\bin\Debug\net6.0\queue01.deps.json
+H:\az-204\queue01\queue01\bin\Debug\net6.0\queue01.runtimeconfig.json
+H:\az-204\queue01\queue01\bin\Debug\net6.0\queue01.dll
+H:\az-204\queue01\queue01\bin\Debug\net6.0\queue01.pdb
+H:\az-204\queue01\queue01\bin\Debug\net6.0\Azure.Core.dll
+H:\az-204\queue01\queue01\bin\Debug\net6.0\Azure.Storage.Common.dll
+H:\az-204\queue01\queue01\bin\Debug\net6.0\Azure.Storage.Queues.dll
+H:\az-204\queue01\queue01\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\az-204\queue01\queue01\bin\Debug\net6.0\System.IO.Hashing.dll
+H:\az-204\queue01\queue01\bin\Debug\net6.0\System.Memory.Data.dll
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.csproj.AssemblyReference.cache
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.GeneratedMSBuildEditorConfig.editorconfig
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.AssemblyInfoInputs.cache
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.AssemblyInfo.cs
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.csproj.CoreCompileInputs.cache
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.csproj.CopyComplete
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.dll
+H:\az-204\queue01\queue01\obj\Debug\net6.0\refint\queue01.dll
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.pdb
+H:\az-204\queue01\queue01\obj\Debug\net6.0\queue01.genruntimeconfig.cache
+H:\az-204\queue01\queue01\obj\Debug\net6.0\ref\queue01.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\queue01.exe
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\queue01.deps.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\queue01.runtimeconfig.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\queue01.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\queue01.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\Azure.Core.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\Azure.Storage.Common.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\Azure.Storage.Queues.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\System.IO.Hashing.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.csproj.AssemblyReference.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.AssemblyInfoInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.AssemblyInfo.cs
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.csproj.CoreCompileInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.csproj.CopyComplete
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\refint\queue01.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\queue01.genruntimeconfig.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\queue01\queue01\obj\Debug\net6.0\ref\queue01.dll

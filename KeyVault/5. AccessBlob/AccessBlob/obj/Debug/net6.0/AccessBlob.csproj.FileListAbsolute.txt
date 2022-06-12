@@ -1,0 +1,17 @@
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\AccessBlob.exe
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\AccessBlob.deps.json
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\AccessBlob.runtimeconfig.json
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\AccessBlob.dll
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\ref\AccessBlob.dll
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\AccessBlob.pdb
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.csproj.AssemblyReference.cache
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.AssemblyInfoInputs.cache
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.AssemblyInfo.cs
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.csproj.CoreCompileInputs.cache
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.dll
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\ref\AccessBlob.dll
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.pdb
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.genruntimeconfig.cache
+C:\tmp\AccessBlob\AccessBlob\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\tmp\AccessBlob\AccessBlob\obj\Debug\net6.0\AccessBlob.csproj.CopyComplete

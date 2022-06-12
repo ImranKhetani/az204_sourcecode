@@ -1,0 +1,44 @@
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.exe
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.deps.json
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.runtimeconfig.json
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.dll
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.pdb
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\Azure.Core.dll
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\az-204\TopicSender\TopicReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.csproj.AssemblyReference.cache
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.GeneratedMSBuildEditorConfig.editorconfig
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.AssemblyInfoInputs.cache
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.AssemblyInfo.cs
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.csproj.CoreCompileInputs.cache
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.csproj.CopyComplete
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.dll
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\refint\TopicReceiver.dll
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.pdb
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.genruntimeconfig.cache
+H:\az-204\TopicSender\TopicReceiver\obj\Debug\net6.0\ref\TopicReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.exe
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.deps.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.runtimeconfig.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\TopicReceiver.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\Azure.Core.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.csproj.AssemblyReference.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.AssemblyInfoInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.AssemblyInfo.cs
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.csproj.CoreCompileInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.csproj.CopyComplete
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\refint\TopicReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\TopicReceiver.genruntimeconfig.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\TopicSender\TopicReceiver\obj\Debug\net6.0\ref\TopicReceiver.dll

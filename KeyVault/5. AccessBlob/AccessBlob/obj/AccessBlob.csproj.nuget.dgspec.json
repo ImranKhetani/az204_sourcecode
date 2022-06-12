@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Imran\\Downloads\\KeyVault\\5. AccessBlob\\AccessBlob\\AccessBlob.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Imran\\Downloads\\KeyVault\\5. AccessBlob\\AccessBlob\\AccessBlob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Imran\\Downloads\\KeyVault\\5. AccessBlob\\AccessBlob\\AccessBlob.csproj",
+        "projectName": "AccessBlob",
+        "projectPath": "C:\\Users\\Imran\\Downloads\\KeyVault\\5. AccessBlob\\AccessBlob\\AccessBlob.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Imran\\Downloads\\KeyVault\\5. AccessBlob\\AccessBlob\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

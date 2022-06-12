@@ -1,0 +1,44 @@
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.exe
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.deps.json
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.runtimeconfig.json
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.pdb
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Azure.Core.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.csproj.AssemblyReference.cache
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.GeneratedMSBuildEditorConfig.editorconfig
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.AssemblyInfoInputs.cache
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.AssemblyInfo.cs
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.csproj.CoreCompileInputs.cache
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.csproj.CopyComplete
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\refint\QueueReceiver.dll
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.pdb
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.genruntimeconfig.cache
+H:\az-204\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\ref\QueueReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.exe
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.deps.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.runtimeconfig.json
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\QueueReceiver.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Azure.Core.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.csproj.AssemblyReference.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.AssemblyInfoInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.AssemblyInfo.cs
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.csproj.CoreCompileInputs.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.csproj.CopyComplete
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\refint\QueueReceiver.dll
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.pdb
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\QueueReceiver.genruntimeconfig.cache
+F:\Simplilearn\AZ-204\Module 10 - Develop message-based solutions\ServiceBusDemo\QueueReceiver\obj\Debug\net6.0\ref\QueueReceiver.dll

@@ -1,0 +1,16 @@
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\BlobApp.exe
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\BlobApp.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\BlobApp.deps.json
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\BlobApp.runtimeconfig.json
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\BlobApp.pdb
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Azure.Core.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Azure.Identity.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Azure.Storage.Blobs.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Azure.Storage.Common.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Microsoft.Identity.Client.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\System.IO.Hashing.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\System.Memory.Data.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\System.Security.Cryptography.ProtectedData.dll
+F:\Simplilearn\AZ-204\Module 07 - Implement secure cloud solutions\4. BlobApp_Managed_Identities\BlobApp\BlobApp\bin\Release\net6.0\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

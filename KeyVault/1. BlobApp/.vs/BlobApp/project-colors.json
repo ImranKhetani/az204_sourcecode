@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf812d1f-e134-45a8-a8ba-1a8606181dd9": {
+      "ProjectGuid": "cf812d1f-e134-45a8-a8ba-1a8606181dd9",
+      "DisplayName": "BlobApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
