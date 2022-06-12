@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a5af659-29b8-4806-bb2e-9abe40f52162": {
+      "ProjectGuid": "9a5af659-29b8-4806-bb2e-9abe40f52162",
+      "DisplayName": "AzureCacheRedis",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
