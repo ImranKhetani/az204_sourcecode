@@ -10,10 +10,6 @@ az storage container create --name imageanalysis --account-name ikclassessaeas01
 
 az storage account show-connection-string -g az204rg01 -n ikclassessaeas01
 
-{
-  "connectionString": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=ikclassessaeas01;AccountKey=1eMk+eJXFpts881LdEHWgTkyCz9PteIjjGvLlk7JqxvDQJpXzhChEdzyTK3TKuUkTZ76qao5/XBM+AStpK/Nng==;BlobEndpoint=https://ikclassessaeas01.blob.core.windows.net/;FileEndpoint=https://ikclassessaeas01.file.core.windows.net/;QueueEndpoint=https://ikclassessaeas01.queue.core.windows.net/;TableEndpoint=https://ikclassessaeas01.table.core.windows.net/"
-}
-
 # Create the Computer Vision service
 
 az cognitiveservices account create `
@@ -33,10 +29,3 @@ az cognitiveservices account keys list `
     az cognitiveservices account list `
     --name ikclassescomputervision `
     --resource-group az204rg01 --query "[].properties.endpoint"
-
-{
-  "key1": "f12a8c56f6e8491ca6169d17bce9522a",
-  "key2": "1acb79aeb162486caf1720c8ba96ba92" 
-}
-
-https://ikclassescomputervision.cognitiveservices.azure.com/
