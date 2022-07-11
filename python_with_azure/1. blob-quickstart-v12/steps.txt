@@ -1,0 +1,15 @@
+# Create the project
+
+mkdir blob-quickstart-v12
+cd blob-quickstart-v12
+
+# Install the package
+
+pip install azure-storage-blob
+
+# Run the python file blob-quickstart-v12
+
+python blob-quickstart-v12.py
+
+
+
